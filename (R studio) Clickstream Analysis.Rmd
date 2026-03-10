@@ -479,3 +479,4 @@ tin cậy 95% là [5.45; 5.94], và khoảng này không chứa 0. Điều này 
 
 rằng nhóm sale có số click trung bình cao hơn nhóm non-sale một cách có ý nghĩa.
 
+
